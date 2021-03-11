@@ -1,0 +1,23 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "first trial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodurang/myFisrtApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodurang/myFisrtApp/issues"
+  },
+  "homepage": "https://github.com/jodurang/myFisrtApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
